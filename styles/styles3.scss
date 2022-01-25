@@ -1,0 +1,11 @@
+$background-color: #eeece5;
+$margin: 0px auto;
+$padding: 20px 0px;
+
+.footer {
+    .container {
+        background-color: $background-color;
+        margin: $margin;
+        padding: $padding;
+    }
+}

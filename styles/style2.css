@@ -1,4 +1,7 @@
-
+.footer {
+  background-color: #eeece5;
+  margin: 0px auto;
+  padding: 20px 0px; }
 
 #footnote{
   background-color: rgb(38, 13, 175);
@@ -8,14 +11,15 @@
 }
 
 .zee{
-    background-color: tomato;
+    background-color: rgb(83, 82, 81);
     color: white;
     padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   .topnav {
     overflow: hidden;
-    background-color: black;
+    background-color:rgb(71, 67, 67);
   }
   
   .topnav a {
@@ -35,4 +39,10 @@
   .topnav a.active {
     background-color: #e6e5ec;
     color: white;
+  }
+
+  #FirstImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }

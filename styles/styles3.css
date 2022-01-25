@@ -1,0 +1,5 @@
+.footer .container {
+        background-color: $background-color;
+        margin: $margin;
+        padding: $padding;
+}
